@@ -17,3 +17,5 @@ local k = (import 'ksonnet-util/kausal.libsonnet');
     serviceAccount.new($._config.name) +
     serviceAccount.mixin.metadata.withNamespace($._config.namespace),
 }
+
+Artem Sayfutdinov
