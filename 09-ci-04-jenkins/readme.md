@@ -5,4 +5,3 @@
 [jenkinsScriptedFile](./jenkinsScriptedFile)
 
 Role https://github.com/kocmoc1/netology_kibana_role.git
-4
