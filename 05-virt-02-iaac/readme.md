@@ -20,7 +20,7 @@
             nposk@userver-1:~$ virtualbox -h  
             Oracle VM VirtualBox VM Selector v6.1.26    
         
-1. ИСПРАВЛЕНО, РЕШЕНИЕ НИЖЕ Не смог запустить playbook, не могу найти ошибку.
+1. Задание 4.
         
         ERROR! We were unable to read either as JSON nor YAML, these are the errors we got from each:
         JSON: Expecting value: line 1 column 1 (char 0)
