@@ -11,7 +11,7 @@
 
 Рекомендуемые регистраторы:
   - [nic.ru](https://nic.ru)
-  - [reg.ru](https://reg.ru)
+  - [reg.ru](https://reg.ru) выбран reg.ru
 
 Цель:
 
